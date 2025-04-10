@@ -132,7 +132,7 @@ By leveraging gaze and blink behavior, the system eliminates **proxy attendance*
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/smart-attendance-system.git
+git clone gh repo clone Rafael-ZP/Lock-In--A_Secure_Attendance_via_Gaze_&_Blink_Detection.git
 cd smart-attendance-system
 ```
 
@@ -198,4 +198,4 @@ This project is licensed under the MIT License.
 ---
 
 > “Empowering education with intelligent presence tracking.”
-```
+
