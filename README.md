@@ -1,4 +1,4 @@
-# 👁️ Lock-In - A Secure Attendance via Gaze and Blink Detection
+# Lock-In - A Secure Attendance via Gaze and Blink Detection
 
 A comprehensive AI-powered attendance system that verifies student presence based on **gaze direction** and **blink detection** using real-time video input. This intelligent solution minimizes proxy attendance and ensures accurate participation tracking through deep learning, computer vision, and an elegant Flask-based web interface.
 
